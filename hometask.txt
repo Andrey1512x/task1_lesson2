@@ -1,1 +1,10 @@
 Ветки master и удаленная ветка demo идентичны
+commits to master:
+init
+heat added
+README added
+fix readme
+boots
+dots
+Merge remote-tracking branch 'origin/hat'
+boots_buttons and hat merged to master
